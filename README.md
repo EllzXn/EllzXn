@@ -30,6 +30,10 @@ console.log("I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years ol
 
 # 🌐 Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ell_zxn)
+```html
+<h1>Jangan lupa</h1>
+<p>follow</p>
+```
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
