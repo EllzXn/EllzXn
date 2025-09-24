@@ -1,4 +1,4 @@
-![myIstri]()
+![myIstri](img/20250923_100520.jpg)
 
 # 💫 About Me:
 Hello World!
