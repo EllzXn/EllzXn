@@ -5,7 +5,7 @@
 ![myIstri](img/ribka.jpg)
 My istri njir :v
 
-###
+#
 
 # 💫 About Me
 Hello. I'm EllzXn, you can call me Ell. 15yo
