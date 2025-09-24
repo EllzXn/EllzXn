@@ -1,3 +1,7 @@
+<div align="center">
+<h1>Hello, I'm EllzXn</h1>
+</div>
+
 ![myIstri](img/ribka.jpg)
 
 # 💫 About Me
