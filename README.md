@@ -4,7 +4,7 @@
 Hello. I'm EllzXn, you can call me Ell. 15yo
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ell_zxn) 
 
 # 💻 Tech Stack:
@@ -14,19 +14,15 @@ Hello. I'm EllzXn, you can call me Ell. 15yo
 ![](https://nirzak-streak-stats.vercel.app/?user=EllzXn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EllzXn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EllzXn&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31uf7wzaea27553yo2fnfdddowfq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
