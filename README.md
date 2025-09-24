@@ -21,6 +21,7 @@ Hello. I'm EllzXn, you can call me Ell. 15yo
 
 <img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation" />
 
+# 🎧 Recently Played:
 <div align="center">
   <a href="https://open.spotify.com/user/31uf7wzaea27553yo2fnfdddowfq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"  />
