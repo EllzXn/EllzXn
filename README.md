@@ -1,4 +1,4 @@
-![myIstri](img/20250923_100520.jpg)
+![myIstri](img/ribka.jpg)
 
 # 💫 About Me:
 Hello. I'm EllzXn, you can call me Ell. 15yo
