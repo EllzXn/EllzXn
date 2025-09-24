@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me
-Hello. I'm EllzXn, you can call me Ell. 15yo
+Hello. You can call me Ell. 15yo
 
 ---
 
