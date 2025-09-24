@@ -21,6 +21,7 @@
 </div>
 
 # 💫 About Me
+--- bash
 Hello. You can call me Ell. 15yo
 
 # 🌐 Socials
