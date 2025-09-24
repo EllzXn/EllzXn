@@ -21,8 +21,12 @@
 </div>
 
 # 💫 About Me
---- bash
-Hello. You can call me Ell. 15yo
+```javasrcipt
+let nama = "EllzXn";
+let namaPanggilan = "Ell";
+let umur = 10 + 3 + 2;
+console.log("I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years old")
+```
 
 # 🌐 Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ell_zxn)
