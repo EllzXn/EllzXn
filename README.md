@@ -1,7 +1,7 @@
 ![myIstri](img/20250923_100520.jpg)
 
 # 💫 About Me:
-Hello World!
+Hello. Im llzXn, you can call me Ell. 15yo
 
 
 ## 🌐 Socials:
