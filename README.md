@@ -21,7 +21,7 @@
 </div>
 
 # 💫 About Me
-```javasrcipt
+```js
 let nama = "EllzXn";
 let namaPanggilan = "Ell";
 let umur = 10 + 3 + 2;
