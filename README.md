@@ -3,7 +3,9 @@
 </div>
 
 ![myIstri](img/ribka.jpg)
-My istri njir :v
+<div align="center">
+<p>My istri njir</p>
+</div>
 
 ---
 
