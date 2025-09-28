@@ -44,4 +44,4 @@ console.log("I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years ol
 
 ---
 
-<p align="center">Made with 🤍 by (EllzXn)[https://github.com/EllzXn]</p>
+<p align="center">Made with 🤍 by [EllzXn](https://github.com/EllzXn)</p>
