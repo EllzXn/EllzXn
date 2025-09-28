@@ -20,6 +20,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllzXn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation"/>
+
 # 💫 About Me
 ```js
 let nama = "EllzXn";
@@ -39,8 +41,6 @@ console.log("I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years ol
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"/>
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation"/>
 
 ---
 
