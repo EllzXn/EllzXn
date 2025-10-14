@@ -4,7 +4,7 @@
 
 ![myIstri](img/ribka.jpg)
 
-<div align="center">
+<div align="center" style="border-radius: 15px">
 <img src="img/ribka.jpg">
 </div>
 
