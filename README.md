@@ -20,6 +20,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllzXn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EllzXn&theme=onedark&border_radius=5&locale=id&date_format=j%20M%5B%20Y%5D" height="300" alt="streak graph"  />
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllzXn&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllzXn&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EllzXn&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EllzXn&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllzXn&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
+</div>
+
 <img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation"/>
 
 # 💫 About Me
