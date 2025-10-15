@@ -15,11 +15,11 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllzXn&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllzXn&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EllzXn&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EllzXn&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllzXn&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EllzXn&theme=github_dark" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EllzXn&theme=github_dark" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EllzXn&theme=github_dark" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EllzXn&theme=github_dark" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllzXn&theme=github_dark&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
 
 <img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation"/>
