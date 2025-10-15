@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EllzXn&theme=onedark&border_radius=5&locale=id&date_format=j%20M%5B%20Y%5D" height="300" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=EllzXn&theme=dark&border_radius=5&locale=id&date_format=j%20M%5B%20Y%5D" height="300" alt="streak graph"/>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
