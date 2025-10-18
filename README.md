@@ -24,7 +24,7 @@
 
 <img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation"/>
 
-# 💫 About Me
+# About Me
 ```js
 let nama = "EllzXn";
 let namaPanggilan = "Ell";
@@ -32,12 +32,12 @@ let umur = 10 + 3 + 2;
 console.log(`I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years old`)
 ```
 
-# 🤝🏻 Connect With Me
+# Connect With Me
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ell_zxn)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 🎧 Recently Played
+# Recently Played
 <div align="center">
   <a href="https://open.spotify.com/user/31uf7wzaea27553yo2fnfdddowfq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"/>
