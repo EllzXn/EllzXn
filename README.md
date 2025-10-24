@@ -43,7 +43,3 @@ print(`I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years old`)
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"/>
   </a>
 </div>
-
----
-
-<p align="center">Made with 🤍 by <a href="https://github.com/EllzXn">EllzXn</a></p>
