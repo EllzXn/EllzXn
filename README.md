@@ -25,11 +25,11 @@
 <img src="https://raw.githubusercontent.com/EllzXn/EllzXn/output/snake.svg" alt="Snake animation"/>
 
 # About Me
-```py
-nama = "EllzXn";
-namaPanggilan = "Ell";
-umur = 10 + 3 + 2;
-print(`I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years old`)
+```js
+connst nama = "EllzXn";
+const namaPanggilan = "Ell";
+const umur = 10 + 3 + 2;
+console.log(`I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years old`)
 ```
 
 # Connect With Me
