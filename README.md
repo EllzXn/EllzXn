@@ -26,7 +26,7 @@
 
 # About Me
 ```js
-connst nama = "EllzXn";
+const nama = "EllzXn";
 const namaPanggilan = "Ell";
 const umur = 10 + 3 + 2;
 console.log(`I'm ${nama}, you can call me ${namaPanggilan}. I'm ${umur} years old`)
