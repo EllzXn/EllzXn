@@ -38,5 +38,5 @@ const aboutMe = {
 
 # My Github Wrapped
 <div align="center>
-<img src="https://files.catbox.moe/optnwf.jpg">
+<img src="https://files.catbox.moe/optnwf.jpg" alt="Github Unwrapped">
 </div>
