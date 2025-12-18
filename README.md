@@ -18,6 +18,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllzXn&theme=github_dark&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
 
+<div align="center">
+<h1>About Me</h1>
+</div>
 ```js
 const aboutMe = {
    name: "EllzXn",
@@ -30,8 +33,4 @@ const aboutMe = {
   <a href="https://open.spotify.com/user/31uf7wzaea27553yo2fnfdddowfq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"/>
   </a>
-</div>
-
-<div align="center">
-<img src="https://files.catbox.moe/optnwf.jpg" alt="Github Unwrapped"/>
 </div>
