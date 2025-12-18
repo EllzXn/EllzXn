@@ -20,14 +20,14 @@
 
 <div align="center">
 <h1>About Me</h1>
-<p>lorem ipsum dolor sit amet</p>
 </div>
 
 ```js
 const aboutMe = {
    name: "EllzXn",
    age: 10 + 6,
-   country: "Indonesia"
+   country: "Indonesia",
+   school: "SMA Negeri 2 Luwu"
 }
 ```
 
