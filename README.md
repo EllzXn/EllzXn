@@ -18,7 +18,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EllzXn&theme=github_dark&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
 
-# About Me
 ```js
 const aboutMe = {
    name: "EllzXn",
@@ -27,16 +26,12 @@ const aboutMe = {
 }
 ```
 
-# Connect With Me
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ell_zxn)
-
 <div align="center">
   <a href="https://open.spotify.com/user/31uf7wzaea27553yo2fnfdddowfq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"/>
   </a>
 </div>
 
-# My Github Wrapped
 <div align="center">
 <img src="https://files.catbox.moe/optnwf.jpg" alt="Github Unwrapped"/>
 </div>
