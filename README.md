@@ -26,8 +26,7 @@
 const aboutMe = {
    name: "EllzXn",
    age: 10 + 6,
-   country: "Indonesia",
-   school: "SMA Negeri 2 Luwu"
+   country: "Indonesia"
 }
 ```
 
