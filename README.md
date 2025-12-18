@@ -20,6 +20,7 @@
 
 <div align="center">
 <h1>About Me</h1>
+<p>lorem ipsum dolor sit amet</p>
 </div>
 
 ```js
