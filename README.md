@@ -40,6 +40,8 @@ const aboutMe = {
   </a>
 </div>
 
+---
+
 <div align="center">
 <p>Made with 🤍 by EllzXn. Art by BlakiOwO</p>
 </div>
