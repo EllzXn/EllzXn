@@ -31,7 +31,15 @@ const aboutMe = {
 ```
 
 <div align="center">
+<h1>Recently Played</h1>
+</div>
+
+<div align="center">
   <a href="https://open.spotify.com/user/31uf7wzaea27553yo2fnfdddowfq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uf7wzaea27553yo2fnfdddowfq&count=5&unique=false" alt="Spotify recently played"/>
   </a>
+</div>
+
+<div align="center">
+<p>Made with 🤍 by EllzXn. Art by BlakiOwO</p>
 </div>
